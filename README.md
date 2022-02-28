@@ -1,2 +1,3 @@
 # APIcomExpress
-Projeto realizado no curso da Udemy
+
+Projeto realizado durante o curso de JS da UDEMY.
